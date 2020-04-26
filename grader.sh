@@ -1,7 +1,7 @@
 #!/bin/bash
 
 display_usage() {
-    echo "Usage: [path/to/executable] [path/to/testacase/folder] [time limit]"
+    echo "Usage: ./grader.sh [path/to/executable] [path/to/testacase/folder] [time limit]"
     exit
 }
 
